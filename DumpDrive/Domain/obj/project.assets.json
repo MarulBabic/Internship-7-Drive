@@ -2447,9 +2447,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\MarMar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\obj\\",
       "projectStyle": "PackageReference",
@@ -2469,8 +2469,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Data.csproj"
+            "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Data\\Data.csproj"
             }
           }
         }

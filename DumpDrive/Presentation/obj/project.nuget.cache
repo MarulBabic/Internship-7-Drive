@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YkB0+Gp0URs=",
+  "dgSpecHash": "4vg2aE1qSSM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Presentation.csproj",
+  "projectFilePath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarMar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MarMar\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
