@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\entities\\dumpdrivedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\entities\\dumpdrivedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\seed\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\seed\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\entities\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\entities\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\enums\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\enums\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\entities\\models\\shareditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\entities\\models\\shareditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\entities\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\entities\\models\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Seed\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\Seed\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Seed\\DatabaseSeeder.cs",
+              "RelativeToolTip": "Data\\Seed\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:52:30.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DumpDriveDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\DumpDriveDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\DumpDriveDbContext.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\DumpDriveDbContext.cs",
+              "RelativeToolTip": "Data\\Entities\\DumpDriveDbContext.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:49:22.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:41:16.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Enums\\ItemType.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\ItemType.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Enums\\ItemType.cs",
+              "RelativeToolTip": "Data\\Enums\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:41:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SharedItem.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\SharedItem.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Models\\SharedItem.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\SharedItem.cs",
+              "RelativeToolTip": "Data\\Entities\\Models\\SharedItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:40:52.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\File.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Models\\File.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\File.cs",
+              "RelativeToolTip": "Data\\Entities\\Models\\File.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:40:35.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Folder.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Models\\Folder.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Folder.cs",
+              "RelativeToolTip": "Data\\Entities\\Models\\Folder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:40:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Comment.cs",
+              "RelativeToolTip": "Data\\Entities\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:40:19.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
