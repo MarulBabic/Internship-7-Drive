@@ -1,0 +1,15 @@
+# .NET build folders
+bin/
+obj/
+
+# VS Code settings folder
+.vscode/
+
+# Rider settings folder
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
