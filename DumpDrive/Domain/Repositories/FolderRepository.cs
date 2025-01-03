@@ -31,16 +31,31 @@ namespace Domain.Repositories
             return DbContext.Folders.Where(f => f.OwnerId == userId).OrderBy(f => f.Name).ToList();
         }
 
-        public void Update(Folder folder, string name)
+        public void Update(Folder folder)
         {
-            folder.Name = name;
             DbContext.Folders.Update(folder);
             SaveChanges();
         }
+        public Folder? GetFolderById(int folderId)
+        {
+            return DbContext.Folders.FirstOrDefault(f => f.Id == folderId);
+        }
 
-        public static Folder? GetFolder(List<Folder> userFolders,string name)
+        public static Folder? GetFolder(List<Folder> userFolders, string name)
         {
             return userFolders.FirstOrDefault(f => f.Name == name);
+        }
+        public Folder? GetFolderById(int folderId, int ownerUserId)
+        {
+            return DbContext.Folders
+                             .Where(f => f.Id == folderId && f.OwnerId == ownerUserId)
+                             .FirstOrDefault();
+        }
+        public Folder? GetFolderByName(string name, int ownerUserId)
+        {
+            return DbContext.Folders
+                             .Where(f => f.Name == name && f.OwnerId == ownerUserId)
+                             .FirstOrDefault();
         }
     }
 }

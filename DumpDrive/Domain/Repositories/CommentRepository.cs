@@ -30,5 +30,14 @@ namespace Domain.Repositories
             DbContext.Comments.Remove(comment);
             SaveChanges();
         }
+        public List<Comment> GetByFileId(int fileId)
+        {
+            return DbContext.Comments.Where(c => c.FileId == fileId).ToList();
+        }
+
+        public Comment GetById(int commentId)
+        {
+            return DbContext.Comments.FirstOrDefault(c => c.Id == commentId);
+        }
     }
 }

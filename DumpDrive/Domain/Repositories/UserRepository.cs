@@ -19,8 +19,13 @@ namespace Domain.Repositories
         {
             return DbContext.Users.FirstOrDefault(u => u.Email == email);
         }
+        public User? GetById(int userId)
+        {
+            return DbContext.Users.FirstOrDefault(u => u.Id == userId);
+        }
 
-        public void Add(User user) { 
+        public void Add(User user)
+        {
             DbContext.Add(user);
             SaveChanges();
         }
@@ -49,8 +54,12 @@ namespace Domain.Repositories
 
         public List<File> GetFiles(User user)
         {
-            
+
             return DbContext.Files.Where(f => f.OwnerId == user.Id).ToList();
+        }
+        public List<User> GetAllUsers()
+        {
+            return DbContext.Users.ToList();
         }
     }
 }
