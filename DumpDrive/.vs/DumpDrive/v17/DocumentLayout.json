@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\presentation\\shareditemcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|solutionrelative:presentation\\shareditemcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\presentation\\sharedwithme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|solutionrelative:presentation\\sharedwithme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\presentation\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|solutionrelative:presentation\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -130,11 +138,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedItemCommands.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\SharedItemCommands.cs",
+              "RelativeDocumentMoniker": "Presentation\\SharedItemCommands.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\SharedItemCommands.cs",
+              "RelativeToolTip": "Presentation\\SharedItemCommands.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:19:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SharedWithMe.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\SharedWithMe.cs",
+              "RelativeDocumentMoniker": "Presentation\\SharedWithMe.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\SharedWithMe.cs",
+              "RelativeToolTip": "Presentation\\SharedWithMe.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:18:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProfileSettingsMenu.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\ProfileSettingsMenu.cs",
               "RelativeDocumentMoniker": "Presentation\\ProfileSettingsMenu.cs",
@@ -142,12 +176,11 @@
               "RelativeToolTip": "Presentation\\ProfileSettingsMenu.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:12:56.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:12:56.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DriveMenu.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\DriveMenu.cs",
               "RelativeDocumentMoniker": "Presentation\\DriveMenu.cs",
@@ -155,12 +188,11 @@
               "RelativeToolTip": "Presentation\\DriveMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:11:48.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:11:48.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FileEditor.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\FileEditor.cs",
               "RelativeDocumentMoniker": "Presentation\\FileEditor.cs",
@@ -168,12 +200,11 @@
               "RelativeToolTip": "Presentation\\FileEditor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:11:17.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:11:17.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\CommandHandler.cs",
               "RelativeDocumentMoniker": "Presentation\\CommandHandler.cs",
@@ -181,12 +212,11 @@
               "RelativeToolTip": "Presentation\\CommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:10:28.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:10:28.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserMenu.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\UserMenu.cs",
               "RelativeDocumentMoniker": "Presentation\\UserMenu.cs",
@@ -199,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\MainMenu.cs",
               "RelativeDocumentMoniker": "Presentation\\MainMenu.cs",
@@ -207,12 +237,11 @@
               "RelativeToolTip": "Presentation\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:08:53.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:08:53.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UserSettingService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\UserSettingService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\UserSettingService.cs",
@@ -224,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FileRepository.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FileRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\FileRepository.cs",
@@ -236,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "FolderRepository.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FolderRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\FolderRepository.cs",
@@ -248,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SharedItemRepository.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\SharedItemRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\SharedItemRepository.cs",
@@ -260,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\UserRepository.cs",
@@ -272,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CommentRepository.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\CommentRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\CommentRepository.cs",
@@ -280,12 +309,11 @@
               "RelativeToolTip": "Domain\\Repositories\\CommentRepository.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:08:45.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:08:45.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "CommentService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\CommentService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\CommentService.cs",
@@ -297,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "SharingItemService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\SharingItemService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\SharingItemService.cs",
@@ -309,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AuthentificationService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\AuthentificationService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\AuthentificationService.cs",
@@ -321,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "DriveService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\DriveService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\DriveService.cs",
@@ -333,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ChangeProfileResult.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Enums\\ChangeProfileResult.cs",
               "RelativeDocumentMoniker": "Data\\Enums\\ChangeProfileResult.cs",
@@ -345,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "20250103143957_UpdateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Migrations\\20250103143957_UpdateDatabase.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250103143957_UpdateDatabase.cs",
@@ -357,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Presentation.csproj",
               "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
@@ -369,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "SharedItem.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\SharedItem.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\SharedItem.cs",
@@ -381,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\Comment.cs",
@@ -393,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "File.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\File.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\File.cs",
@@ -405,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Folder.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Folder.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\Folder.cs",
@@ -417,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\User.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\User.cs",
@@ -429,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "DumpDriveDbContext.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\DumpDriveDbContext.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\DumpDriveDbContext.cs",
@@ -441,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\BaseRepository.cs",
@@ -453,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ResponseType.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Enums\\ResponseType.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\ResponseType.cs",
@@ -465,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "DatabaseSeeder.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Seed\\DatabaseSeeder.cs",
               "RelativeDocumentMoniker": "Data\\Seed\\DatabaseSeeder.cs",
@@ -477,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Data.csproj",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Data\\Data.csproj",
               "RelativeDocumentMoniker": "Data\\Data.csproj",
@@ -489,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ItemType.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Enums\\ItemType.cs",
               "RelativeDocumentMoniker": "Data\\Enums\\ItemType.cs",
