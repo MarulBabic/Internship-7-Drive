@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\shareditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\shareditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\folderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\folderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\usersettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\usersettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\sharingitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\sharingitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\driveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\driveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\sharingitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\sharingitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\enums\\changeprofileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\enums\\changeprofileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\driveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\driveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Migrations\\20250103143957_UpdateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250103143957_UpdateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\enums\\changeprofileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\enums\\changeprofileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\entities\\dumpdrivedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,28 +71,8 @@
       "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\folderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\folderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\shareditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\shareditemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -97,6 +93,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\enums\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\enums\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\migrations\\20250103143957_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250103143957_updatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,76 +106,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UserSettingService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\UserSettingService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\UserSettingService.cs",
               "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\UserSettingService.cs",
               "RelativeToolTip": "Domain\\Services\\UserSettingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T14:53:24.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SharingItemService.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\SharingItemService.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\SharingItemService.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\SharingItemService.cs",
-              "RelativeToolTip": "Domain\\Services\\SharingItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FileRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\FileRepository.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FileRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\FileRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:53:04.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DriveService.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\DriveService.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\DriveService.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\DriveService.cs",
-              "RelativeToolTip": "Domain\\Services\\DriveService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:52:52.346Z",
+              "WhenOpened": "2024-12-25T20:23:31.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FolderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FolderRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\FolderRepository.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FolderRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\FolderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:34:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SharedItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\SharedItemRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\SharedItemRepository.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\SharedItemRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\SharedItemRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:59:18.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:04:16.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:08:45.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CommentService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\CommentService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\CommentService.cs",
               "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\CommentService.cs",
               "RelativeToolTip": "Domain\\Services\\CommentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T14:52:41.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "SharingItemService.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\SharingItemService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\SharingItemService.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\SharingItemService.cs",
+              "RelativeToolTip": "Domain\\Services\\SharingItemService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:53:04.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AuthentificationService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\AuthentificationService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\AuthentificationService.cs",
               "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\AuthentificationService.cs",
               "RelativeToolTip": "Domain\\Services\\AuthentificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAF8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T14:52:28.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "DriveService.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\DriveService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\DriveService.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\DriveService.cs",
+              "RelativeToolTip": "Domain\\Services\\DriveService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:52:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ChangeProfileResult.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Enums\\ChangeProfileResult.cs",
               "RelativeDocumentMoniker": "Data\\Enums\\ChangeProfileResult.cs",
@@ -183,12 +248,11 @@
               "RelativeToolTip": "Data\\Enums\\ChangeProfileResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:43:33.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:43:33.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "20250103143957_UpdateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Migrations\\20250103143957_UpdateDatabase.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250103143957_UpdateDatabase.cs",
@@ -196,25 +260,11 @@
               "RelativeToolTip": "Data\\Migrations\\20250103143957_UpdateDatabase.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:39:57.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:39:57.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:04:16.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Presentation.csproj",
               "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
@@ -226,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "SharedItem.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\SharedItem.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\SharedItem.cs",
@@ -234,12 +284,11 @@
               "RelativeToolTip": "Data\\Entities\\Models\\SharedItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:06:38.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:06:38.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\Comment.cs",
@@ -247,12 +296,11 @@
               "RelativeToolTip": "Data\\Entities\\Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:09:39.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:09:39.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "File.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\File.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\File.cs",
@@ -260,12 +308,11 @@
               "RelativeToolTip": "Data\\Entities\\Models\\File.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:33:29.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T20:33:29.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Folder.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\Folder.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\Folder.cs",
@@ -273,12 +320,11 @@
               "RelativeToolTip": "Data\\Entities\\Models\\Folder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:24:37.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:24:37.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\Models\\User.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Models\\User.cs",
@@ -286,12 +332,11 @@
               "RelativeToolTip": "Data\\Entities\\Models\\User.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:27:37.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T20:27:37.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DumpDriveDbContext.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Entities\\DumpDriveDbContext.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\DumpDriveDbContext.cs",
@@ -299,12 +344,11 @@
               "RelativeToolTip": "Data\\Entities\\DumpDriveDbContext.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAFIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:49:22.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T16:49:22.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Repositories\\BaseRepository.cs",
@@ -316,55 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SharedItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\SharedItemRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\SharedItemRepository.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\SharedItemRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\SharedItemRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:59:18.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FileRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FileRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\FileRepository.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FileRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\FileRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:23:31.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\CommentRepository.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\CommentRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\CommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:08:45.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FolderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FolderRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Repositories\\FolderRepository.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Repositories\\FolderRepository.cs",
-              "RelativeToolTip": "Domain\\Repositories\\FolderRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:34:16.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "ResponseType.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Enums\\ResponseType.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\ResponseType.cs",
@@ -376,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "DatabaseSeeder.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Seed\\DatabaseSeeder.cs",
               "RelativeDocumentMoniker": "Data\\Seed\\DatabaseSeeder.cs",
@@ -388,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Data.csproj",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Data\\Data.csproj",
               "RelativeDocumentMoniker": "Data\\Data.csproj",
@@ -400,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "ItemType.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Enums\\ItemType.cs",
               "RelativeDocumentMoniker": "Data\\Enums\\ItemType.cs",
