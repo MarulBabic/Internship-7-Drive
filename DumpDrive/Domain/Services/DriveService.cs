@@ -49,13 +49,13 @@ namespace Domain.Services
             var folder = _folderRepository.GetFolderById(folderId, userId);
             if (folder == null)
             {
-                return false; // Folder ne postoji ili korisnik nema pristup
+                return false; 
             }
 
             var fileExists = _fileRepository.GetFileByNameInFolder(fileName, folderId) != null;
             if (fileExists)
             {
-                return false; // Fajl sa istim imenom već postoji
+                return false; 
             }
 
             var newFile = new File

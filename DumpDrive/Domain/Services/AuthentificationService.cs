@@ -33,12 +33,10 @@ namespace Domain.Services
                 if (verificationResult == PasswordVerificationResult.Success)
                 {
                     _loggedInUser = user;
-                    //Console.WriteLine($"User {email} successfully logged in.");
                     return user;
                 }
             }
 
-            //Console.WriteLine("Invalid email or password.");
             return null;
         }
 
@@ -70,13 +68,11 @@ namespace Domain.Services
             
             if (_loggedInUser != null)
             {
-                //Console.WriteLine($"Logged in user: {_loggedInUser.Email}");
                 return _loggedInUser;
 
             }
             else
             {
-                //Console.WriteLine("No user is logged in.");
                 return null;
             }
         }
@@ -92,11 +88,23 @@ namespace Domain.Services
             if (_loggedInUser != null)
             {
                 _loggedInUser = null;
-               // Console.WriteLine("User logged out.");
-                Console.ReadLine();
                 return true;
             }
             return false;
+        }
+
+        public string GenerateCaptcha()
+        {
+            var random = new Random();
+            const string letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+            const string digits = "0123456789";
+            string captcha = "";
+            captcha += letters[random.Next(letters.Length)];
+            captcha += digits[random.Next(digits.Length)];
+            captcha += (random.Next(2) == 0) ? letters[random.Next(letters.Length)] : digits[random.Next(digits.Length)];
+            captcha += (random.Next(2) == 0) ? letters[random.Next(letters.Length)] : digits[random.Next(digits.Length)];
+            captcha = new string(captcha.OrderBy(c => random.Next()).ToArray());
+            return captcha;
         }
 
     }
