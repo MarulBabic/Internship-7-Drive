@@ -13,6 +13,8 @@ namespace Data.Entities.Models
         public int SharedUserId { get; set; }
         public DateTime SharedAt { get; set; }
         public Data.Enums.ItemType SharedItemType { get; set; }
+        public int? FileId {  get; set; }
+        public int? FolderId { get; set; }
 
         public User OwnerUser { get; set; }
         public User SharedUser { get; set; }
