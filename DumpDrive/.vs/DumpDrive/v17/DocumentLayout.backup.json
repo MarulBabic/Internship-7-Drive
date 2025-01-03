@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\presentation\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|solutionrelative:presentation\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\presentation\\helpers\\commentpresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|solutionrelative:presentation\\helpers\\commentpresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\services\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|solutionrelative:domain\\services\\authentificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\presentation\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD4AEAA-F205-4B14-BA40-4B43AD93C270}|Presentation\\Presentation.csproj|solutionrelative:presentation\\menus\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B1968E7-1BEF-4B94-A0DB-8F986AEC2A4A}|Domain\\Domain.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\domain\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|c:\\users\\marmar\\internship-7-drive\\dumpdrive\\data\\enums\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{263AF30F-4625-4992-97D3-9E02A38C36A4}|Data\\Data.csproj|solutionrelative:data\\enums\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\obj\\Debug\\net8.0\\lrkrlw35.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\obj\\Debug\\net8.0\\lrkrlw35.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,15 +150,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CommentPresentation.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Helpers\\CommentPresentation.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Helpers\\CommentPresentation.cs",
               "RelativeDocumentMoniker": "Presentation\\Helpers\\CommentPresentation.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Helpers\\CommentPresentation.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Helpers\\CommentPresentation.cs",
               "RelativeToolTip": "Presentation\\Helpers\\CommentPresentation.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,20 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FileEditor.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Editors\\FileEditor.cs",
-              "RelativeDocumentMoniker": "Presentation\\Editors\\FileEditor.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Editors\\FileEditor.cs",
-              "RelativeToolTip": "Presentation\\Editors\\FileEditor.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:11:17.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20250103143957_UpdateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Migrations\\20250103143957_UpdateDatabase.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20250103143957_UpdateDatabase.cs",
@@ -192,12 +175,11 @@
               "RelativeToolTip": "Data\\Migrations\\20250103143957_UpdateDatabase.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:39:57.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:39:57.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ChangeProfileResult.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\Enums\\ChangeProfileResult.cs",
               "RelativeDocumentMoniker": "Data\\Enums\\ChangeProfileResult.cs",
@@ -205,12 +187,11 @@
               "RelativeToolTip": "Data\\Enums\\ChangeProfileResult.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:43:33.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:43:33.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Presentation.csproj",
               "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
@@ -218,62 +199,83 @@
               "RelativeToolTip": "Presentation\\Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-25T21:28:43.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:28:43.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SharedWithMe.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\SharedWithMe.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\SharedWithMe.cs",
               "RelativeDocumentMoniker": "Presentation\\Menus\\SharedWithMe.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\SharedWithMe.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\SharedWithMe.cs",
               "RelativeToolTip": "Presentation\\Menus\\SharedWithMe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:18:34.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DriveMenu.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\DriveMenu.cs",
-              "RelativeDocumentMoniker": "Presentation\\Menus\\DriveMenu.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\DriveMenu.cs",
-              "RelativeToolTip": "Presentation\\Menus\\DriveMenu.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:11:48.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "lrkrlw35.sql ",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\obj\\Debug\\net8.0\\lrkrlw35.sql",
-              "RelativeDocumentMoniker": "Data\\obj\\Debug\\net8.0\\lrkrlw35.sql",
-              "ToolTip": "lrkrlw35.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-03T15:35:56.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:18:34.699Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Helpers\\CommandHandler.cs",
-              "RelativeDocumentMoniker": "Presentation\\Helpers\\CommandHandler.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Helpers\\CommandHandler.cs",
-              "RelativeToolTip": "Presentation\\Helpers\\CommandHandler.cs",
-              "ViewState": "AgIAAMQAAAAAAAAAAAAAAJMAAAAfAAAAAAAAAA==",
+              "Title": "DriveMenu.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\DriveMenu.cs",
+              "RelativeDocumentMoniker": "Presentation\\Menus\\DriveMenu.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\DriveMenu.cs",
+              "RelativeToolTip": "Presentation\\Menus\\DriveMenu.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:10:28.092Z",
+              "WhenOpened": "2025-01-03T15:11:48.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMenu.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\UserMenu.cs",
+              "RelativeDocumentMoniker": "Presentation\\Menus\\UserMenu.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\UserMenu.cs",
+              "RelativeToolTip": "Presentation\\Menus\\UserMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:09:35.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileEditor.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Editors\\FileEditor.cs",
+              "RelativeDocumentMoniker": "Presentation\\Editors\\FileEditor.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Editors\\FileEditor.cs",
+              "RelativeToolTip": "Presentation\\Editors\\FileEditor.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:11:17.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lrkrlw35.sql",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\obj\\Debug\\net8.0\\lrkrlw35.sql",
+              "RelativeDocumentMoniker": "Data\\obj\\Debug\\net8.0\\lrkrlw35.sql",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Data\\obj\\Debug\\net8.0\\lrkrlw35.sql",
+              "RelativeToolTip": "Data\\obj\\Debug\\net8.0\\lrkrlw35.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-03T15:35:56.808Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Helpers\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "Presentation\\Helpers\\CommandHandler.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Helpers\\CommandHandler.cs",
+              "RelativeToolTip": "Presentation\\Helpers\\CommandHandler.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAJMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:10:28.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserSettingService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\UserSettingService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\UserSettingService.cs",
@@ -281,12 +283,11 @@
               "RelativeToolTip": "Domain\\Services\\UserSettingService.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:53:24.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:53:24.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SharingItemService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\SharingItemService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\SharingItemService.cs",
@@ -294,25 +295,23 @@
               "RelativeToolTip": "Domain\\Services\\SharingItemService.cs",
               "ViewState": "AgIAAMAAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:53:04.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:53:04.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\MainMenu.cs",
               "RelativeDocumentMoniker": "Presentation\\Menus\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\MainMenu.cs",
               "RelativeToolTip": "Presentation\\Menus\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:08:53.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:08:53.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DriveService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\DriveService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\DriveService.cs",
@@ -320,12 +319,11 @@
               "RelativeToolTip": "Domain\\Services\\DriveService.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAAAADkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:52:52.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:52:52.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CommentService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\CommentService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\CommentService.cs",
@@ -333,12 +331,11 @@
               "RelativeToolTip": "Domain\\Services\\CommentService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:52:41.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:52:41.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AuthentificationService.cs",
               "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Domain\\Services\\AuthentificationService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\AuthentificationService.cs",
@@ -346,21 +343,7 @@
               "RelativeToolTip": "Domain\\Services\\AuthentificationService.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAAFkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:52:28.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserMenu.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\UserMenu.cs",
-              "RelativeDocumentMoniker": "Presentation\\Menus\\UserMenu.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\UserMenu.cs",
-              "RelativeToolTip": "Presentation\\Menus\\UserMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:09:35.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T14:52:28.153Z"
             },
             {
               "$type": "Document",
@@ -372,8 +355,7 @@
               "RelativeToolTip": "Domain\\Repositories\\BaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:59:51.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:59:51.238Z"
             },
             {
               "$type": "Document",
@@ -385,8 +367,7 @@
               "RelativeToolTip": "Data\\Entities\\DumpDriveDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T16:49:22.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T16:49:22.172Z"
             },
             {
               "$type": "Document",
@@ -398,8 +379,7 @@
               "RelativeToolTip": "Domain\\Repositories\\FileRepository.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:23:31.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T20:23:31.569Z"
             },
             {
               "$type": "Document",
@@ -411,8 +391,7 @@
               "RelativeToolTip": "Domain\\Repositories\\CommentRepository.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T21:08:45.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:08:45.209Z"
             },
             {
               "$type": "Document",
@@ -424,34 +403,31 @@
               "RelativeToolTip": "Presentation\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:26:11.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:26:11.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "SharedItemCommands.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Helpers\\SharedItemCommands.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Helpers\\SharedItemCommands.cs",
               "RelativeDocumentMoniker": "Presentation\\Helpers\\SharedItemCommands.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Helpers\\SharedItemCommands.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Helpers\\SharedItemCommands.cs",
               "RelativeToolTip": "Presentation\\Helpers\\SharedItemCommands.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:19:08.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:19:08.712Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ProfileSettingsMenu.cs",
-              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\ProfileSettingsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\ProfileSettingsMenu.cs",
               "RelativeDocumentMoniker": "Presentation\\Menus\\ProfileSettingsMenu.cs",
-              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDRIVE\\Presentation\\Menus\\ProfileSettingsMenu.cs",
+              "ToolTip": "C:\\Users\\MarMar\\Internship-7-Drive\\DumpDrive\\Presentation\\Menus\\ProfileSettingsMenu.cs",
               "RelativeToolTip": "Presentation\\Menus\\ProfileSettingsMenu.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T15:12:56.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T15:12:56.706Z"
             },
             {
               "$type": "Document",
@@ -583,8 +559,7 @@
               "RelativeToolTip": "Data\\Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-25T19:40:32.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:40:32.488Z"
             },
             {
               "$type": "Document",

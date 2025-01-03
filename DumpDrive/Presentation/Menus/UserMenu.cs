@@ -10,7 +10,7 @@ namespace Presentation
         private User? _user;
         private readonly AuthenticationService _authService;
         private readonly MainMenu _mainMenu;
-        private readonly ProfileSettingsMenu _profileSettingsMenu;
+        private ProfileSettingsMenu _profileSettingsMenu;
         private DriveMenu _driveMenu;
         private DriveService _driveService;
         private CommandHandler commandHandler;
@@ -24,16 +24,23 @@ namespace Presentation
             _mainMenu = mainMenu;
             _user = _authService.GetLoggedInUser();
 
-            var userRepository = authService.GetUserRepository();
-            var userSettingsService = new UserSettingsService(userRepository);
-            _profileSettingsMenu = new ProfileSettingsMenu(userSettingsService, _user);
             InitializeMenuItems();
         }
         private void InitializeMenuItems()
         {
+            _user = _authService.GetLoggedInUser();
+
+            if (_user == null)
+            {
+                Console.WriteLine("No user is logged in.");
+                Console.ReadLine();
+                _mainMenu.Show();
+                return;
+            }
+
             var options = new DbContextOptionsBuilder<DumpDriveDbContext>()
-               .UseNpgsql("Host=127.0.0.1;Port=5433;Database=DumpDrive;Username=postgres;Password=admin;")
-               .Options;
+                .UseNpgsql("Host=127.0.0.1;Port=5433;Database=DumpDrive;Username=postgres;Password=postgres;")
+                .Options;
             var dbContext = new DumpDriveDbContext(options);
 
             var folderRepository = new FolderRepository(dbContext);
@@ -43,18 +50,25 @@ namespace Presentation
             var commentRepository = new CommentRepository(dbContext);
 
             _driveService = new DriveService(folderRepository, fileRepository);
+
             var sharingItemService = new SharingItemService(
                 sharedItemRepository,
                 userRepository,
                 fileRepository,
                 folderRepository
             );
+
             var commentService = new CommentService(commentRepository, userRepository, fileRepository);
+
+            _sharedWithMe = new SharedWithMe(sharingItemService, commentService, _user.Id);
+
             commandHandler = new CommandHandler(null, _driveService);
             _driveMenu = new DriveMenu(_driveService, _user.Id, commandHandler);
             commandHandler.SetDriveMenu(_driveMenu);
-            _sharedWithMe = new SharedWithMe(sharingItemService, commentService, _user.Id);
+            var userSettingsService = new UserSettingsService(userRepository);
+            _profileSettingsMenu = new ProfileSettingsMenu(userSettingsService, _user);
         }
+
         public void ShowUserMenu()
         {
             _user = _authService.GetLoggedInUser();
@@ -120,6 +134,7 @@ namespace Presentation
 
         private void ShowSharedWithMe()
         {
+            InitializeMenuItems();
             Console.Clear();
             Console.WriteLine("Displaying Shared with Me...");
             _sharedWithMe.Show();
@@ -128,6 +143,8 @@ namespace Presentation
         }
         private void ShowProfileSettings()
         {
+            InitializeMenuItems();
+
             Console.Clear();
             Console.WriteLine("Profile Settings...");
             _profileSettingsMenu.Show();
@@ -140,6 +157,7 @@ namespace Presentation
         {
             _authService.Logout();
             _user = null;
+
             Console.Clear();
             Console.WriteLine("Logged out successfully. Returning to the login screen.");
             _mainMenu.Show();
